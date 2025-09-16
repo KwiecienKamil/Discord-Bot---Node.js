@@ -12,12 +12,14 @@
   "dependencies": {
     "@discordjs/rest": "^2.5.1",
     "@discordjs/voice": "^0.19.0",
+    "@distube/ytdl-core": "^4.16.12",
     "@snazzah/davey": "^0.1.6",
     "discord-api-types": "^0.38.20",
     "discord.js": "^14.21.0",
     "dotenv": "^17.2.1",
     "ffmpeg-static": "^5.2.0",
-    "ytdl-core": "npm:@distube/ytdl-core@^4.16.12",
+    "play-dl": "^1.9.7",
+    "ytdl-core": "^4.11.5",
     "ytpl": "^2.3.0"
   }
 }
